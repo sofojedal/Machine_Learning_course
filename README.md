@@ -2,4 +2,4 @@
 
 | Tema         | Archivo                 |
 |--------------|-------------------------|
-| Tema 4       | [Validación_cruzada_2.py.md](Validación_cruzada_2.py) |
+| Tema 4       | [Validación_cruzada_2.ipynb.md](Validación_cruzada_2.ipynb) |
