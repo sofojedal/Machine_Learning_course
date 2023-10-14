@@ -12,3 +12,4 @@
 | Tema 8       | [Entropia_Ejercicio.ipynb.md](Entropia_Ejercicio.ipynb) |
 | Tema 9       | [Arbol_Regresion_LauraSofia.ipynb.md](Arbol_Regresion_LauraSofia.ipynb) |
 | Tema 10      | [Grafos.ipynb.md](Grafos.ipynb) |
+| Tema 11      | [Frontera_decision.ipynb.md](Frontera_decision.ipynb) |
