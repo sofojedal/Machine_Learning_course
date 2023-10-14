@@ -9,4 +9,4 @@
 | Tema 5       | [Ejercicio_california_housing_validacion_y_test.ipynb.md](Ejercicio_california_housing_validacion_y_test.ipynb) |
 | Tema 6       | [Entropia.ipynb.md](Entropia.ipynb) |
 | Tema 7       | [ValidacionCaliforniaHousing2.ipynb.md](ValidacionCaliforniaHousing2.ipynb) |
-
+| Tema 8       | [Entropia_Ejercicio.ipynb.md](Entropia_Ejercicio.ipynb) |
