@@ -19,3 +19,10 @@
 | Tema 15      | [CLASE_taller_reg_lineal.ipynb.md](CLASE_taller_reg_lineal.ipynb) |
 | Tema 16      | [CLASE_13_sep.ipynb.md](CLASE_13_sep.ipynb.ipynb) |
 
+
+
+| Talleres     | Archivo                 |
+|--------------|-------------------------|
+|  1           | [Taller_1.ipynb.md](Taller_1.ipynb) |
+
+
