@@ -11,3 +11,4 @@
 | Tema 7       | [ValidacionCaliforniaHousing2.ipynb.md](ValidacionCaliforniaHousing2.ipynb) |
 | Tema 8       | [Entropia_Ejercicio.ipynb.md](Entropia_Ejercicio.ipynb) |
 | Tema 9       | [Arbol_Regresion_LauraSofia.ipynb.md](Arbol_Regresion_LauraSofia.ipynb) |
+| Tema 10      | [Grafos.ipynb.md](Grafos.ipynb) |
