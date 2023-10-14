@@ -15,3 +15,4 @@
 | Tema 11      | [Frontera_decision.ipynb.md](Frontera_decision.ipynb) |
 | Tema 12      | [ClaseKNN_Ejercicio.ipynb.md](ClaseKNN_Ejercicio.ipynb) |
 | Tema 13      | [Ejercicio_KNNRegressor_OJEDA.ipynb.md](Ejercicio_KNNRegressor_OJEDA.ipynb) |
+| Tema 14      | [DecisionTreeRegressor.ipynb.md](DecisionTreeRegressor.ipynb) |
