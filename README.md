@@ -8,3 +8,5 @@
 | Tema 4       | [Validación_cruzada_2.ipynb.md](Validación_cruzada_2.ipynb) |
 | Tema 5       | [Ejercicio_california_housing_validacion_y_test.ipynb.md](Ejercicio_california_housing_validacion_y_test.ipynb) |
 | Tema 6       | [Entropia.ipynb.md](Entropia.ipynb) |
+| Tema 7       | [ValidacionCaliforniaHousing2.ipynb.md](ValidacionCaliforniaHousing2.ipynb) |
+
