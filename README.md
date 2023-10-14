@@ -17,3 +17,5 @@
 | Tema 13      | [Ejercicio_KNNRegressor_OJEDA.ipynb.md](Ejercicio_KNNRegressor_OJEDA.ipynb) |
 | Tema 14      | [DecisionTreeRegressor.ipynb.md](DecisionTreeRegressor.ipynb) |
 | Tema 15      | [CLASE_taller_reg_lineal.ipynb.md](CLASE_taller_reg_lineal.ipynb) |
+| Tema 16      | [CLASE_13_sep.ipynb.md](CLASE_13_sep.ipynb.ipynb) |
+
