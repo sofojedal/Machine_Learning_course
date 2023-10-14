@@ -21,8 +21,8 @@
 
 
 
+
 | Talleres     | Archivo                 |
 |--------------|-------------------------|
 |  1           | [Taller_1.ipynb.md](Taller_1.ipynb) |
-
-
+|  2           | [Taller_2.ipynb.md](Taller_2.ipynb) |
